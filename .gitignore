@@ -1,0 +1,6 @@
+**.ignore
+**/target
+**/.cargo/
+**/vendor/
+
+book/

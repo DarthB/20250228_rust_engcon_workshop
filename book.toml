@@ -1,0 +1,9 @@
+[book]
+authors = ["Tim Janus"]
+language = "en"
+multilingual = false
+src = "book_src"
+title = "Rust Procedural Macros - with prior Rust Crash Course"
+
+[output.html.playground]
+runnable = false
