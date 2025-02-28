@@ -22,11 +22,11 @@ Contains a Rust Crash Course and a dive into the implementation of procedural ma
 
 The Workshop
 
-<img src="../github_20250228_rust_engcon_workshop.png" width="100px" />
+<img src="book_src/github_20250228_rust_engcon_workshop.png" width="100px" />
 
 The EngCon Crate
 
-<img src="../github_engcon.png" width="100px" />
+<img src="book_src/github_engcon.png" width="100px" />
 
 ## About the Speaker - Tim Janus
 
